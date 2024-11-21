@@ -1,0 +1,164 @@
+[
+    {
+        "firstName": "Mikaeel",
+        "lastName": "Sedick",
+        "favHobby": "Swimming",
+        "criminal": false,
+        "dreamCars": [
+            {
+                "carName": "BMW M4",
+                "engineCapacity": 8,
+                "model": "2016"
+            },
+            {
+                "carName": "gt 500",
+                "engineCapacity": 8,
+                "model": "2022"
+            }
+        ]
+    },
+    {
+        "firstName": "Bruce",
+        "lastName": "Wayne",
+        "favHobby": "Martial Arts",
+        "criminal": false,
+        "dreamCars": [
+            {
+                "carName": "Batmobile",
+                "engineCapacity": 10,
+                "model": "2020"
+            },
+            {
+                "carName": "Lamborghini Aventador",
+                "engineCapacity": 12,
+                "model": "2015"
+            }
+        ]
+    },
+    {
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "favHobby": "Inventing",
+        "criminal": false,
+        "dreamCars": [
+            {
+                "carName": "Audi R8",
+                "engineCapacity": 8,
+                "model": "2012"
+            },
+            {
+                "carName": "Tesla Roadster",
+                "engineCapacity": "Electric",
+                "model": "2023"
+            }
+        ]
+    },
+    {
+        "firstName": "Diana",
+        "lastName": "Prince",
+        "favHobby": "Horseback Riding",
+        "criminal": true,
+        "dreamCars": [
+            {
+                "carName": "Aston Martin DB11",
+                "engineCapacity": 12,
+                "model": "2018"
+            },
+            {
+                "carName": "Ferrari Roma",
+                "engineCapacity": 8,
+                "model": "2021"
+            }
+        ]
+    },
+    {
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "favHobby": "Photography",
+        "criminal": false,
+        "dreamCars": [
+            {
+                "carName": "Toyota Supra",
+                "engineCapacity": 6,
+                "model": "1998"
+            },
+            {
+                "carName": "Chevrolet Camaro",
+                "engineCapacity": 8,
+                "model": "2019"
+            }
+        ]
+    },
+    {
+        "firstName": "Natasha",
+        "lastName": "Romanoff",
+        "favHobby": "Espionage",
+        "criminal": true,
+        "dreamCars": [
+            {
+                "carName": "Chevrolet Corvette",
+                "engineCapacity": 8,
+                "model": "2021"
+            },
+            {
+                "carName": "Ducati Panigale",
+                "engineCapacity": 4,
+                "model": "2020"
+            }
+        ]
+    },
+    {
+        "firstName": "Clark",
+        "lastName": "Kent",
+        "favHobby": "Journalism",
+        "criminal": false,
+        "dreamCars": [
+            {
+                "carName": "Ford F-150",
+                "engineCapacity": 6,
+                "model": "2017"
+            },
+            {
+                "carName": "Jeep Wrangler",
+                "engineCapacity": 6,
+                "model": "2022"
+            }
+        ]
+    },
+    {
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "favHobby": "Training",
+        "criminal": false,
+        "dreamCars": [
+            {
+                "carName": "Harley-Davidson WLA",
+                "engineCapacity": 2,
+                "model": "1942"
+            },
+            {
+                "carName": "Dodge Charger",
+                "engineCapacity": 8,
+                "model": "1970"
+            }
+        ]
+    },
+    {
+        "firstName": "Selina",
+        "lastName": "Kyle",
+        "favHobby": "Parkour",
+        "criminal": true,
+        "dreamCars": [
+            {
+                "carName": "Jaguar F-Type",
+                "engineCapacity": 8,
+                "model": "2020"
+            },
+            {
+                "carName": "Aston Martin Vantage",
+                "engineCapacity": 8,
+                "model": "2019"
+            }
+        ]
+    }
+]
