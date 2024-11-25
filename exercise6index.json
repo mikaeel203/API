@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Michealangelo",
+      "email": "mikey@tmnt.com",
+      "age": 20
+    },
+    {
+      "id": 2,
+      "name": "Leonardo",
+      "email": "leo@tmnt.com",
+      "age": 20
+    },
+    {
+      "id": 3,
+      "name": "Raphael",
+      "email": "raph@tmnt.com",
+      "age": 20
+    },
+    {
+      "id": 4,
+      "name": "Donatelo",
+      "email": "donny@tmnt.com",
+      "age": 20
+    },
+    {
+        "id": 5,
+        "name" : "Master Splinter",
+        "email" : "themaster@dojo.com",
+        "age": 1000
+    }
+  ]
