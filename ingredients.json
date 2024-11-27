@@ -1,0 +1,85 @@
+{
+    "mythical_ingredients": [
+      {
+        "name": "Dragon scale",
+        "description": "A scale shed by a dragon, known for its magical properties and durability."
+      },
+      {
+        "name": "Phoenix feather",
+        "description": "A rare feather from a Phoenix, imbued with the power of rebirth and fire."
+      },
+      {
+        "name": "Unicorn horn",
+        "description": "The magical horn of a unicorn, known for its healing and purifying abilities."
+      },
+      {
+        "name": "Mermaid's tear",
+        "description": "A tear from a mermaid, often used in potions for emotional clarity."
+      },
+      {
+        "name": "Griffin talon",
+        "description": "The sharp talon of a griffin, often used to enhance strength and agility."
+      },
+      {
+        "name": "Basilisk venom",
+        "description": "A potent venom from the basilisk, known for its ability to paralyze and petrify."
+      },
+      {
+        "name": "Fairy dust",
+        "description": "A fine glittering powder collected from the wings of fairies, used for invisibility and flight."
+      },
+      {
+        "name": "Chimera's breath",
+        "description": "The mystical breath of a chimera, which can be used in fire-related potions."
+      },
+      {
+        "name": "Gorgon’s eye",
+        "description": "The eye of a gorgon, capable of turning anything to stone upon contact."
+      },
+      {
+        "name": "Troll's blood",
+        "description": "A thick, healing blood extracted from a troll, used in regenerative potions."
+      },
+      {
+        "name": "Hydra's tooth",
+        "description": "A tooth from the many-headed hydra, known to bring immense strength when used in spells."
+      },
+      {
+        "name": "Siren's song",
+        "description": "A magical melody sung by sirens, often used to enchant and mesmerize."
+      },
+      {
+        "name": "Witch's brew",
+        "description": "A concoction brewed by witches, filled with potent magical effects."
+      },
+      {
+        "name": "Werewolf fur",
+        "description": "The fur from a werewolf, which is useful in potions that enhance night vision."
+      },
+      {
+        "name": "Centaur's arrow",
+        "description": "An arrow crafted by centaurs, renowned for its precision and magical properties."
+      },
+      {
+        "name": "Kraken ink",
+        "description": "Ink harvested from the kraken, known for its ability to bind and control."
+      },
+      {
+        "name": "Nymph's hair",
+        "description": "The hair of a water nymph, often used in spells for purification and water control."
+      },
+      {
+        "name": "Dragon's blood",
+        "description": "A rare and potent substance extracted from the veins of a dragon, used in powerful spells."
+      },
+      {
+        "name": "Faun's hoof",
+        "description": "A faun's hoof, which grants agility and strength when included in potions."
+      },
+      {
+        "name": "Pegasus feather",
+        "description": "A feather from the winged horse Pegasus, used in potions that grant flight and speed."
+      }
+    ]
+  }
+  
